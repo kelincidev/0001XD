@@ -1,7 +1,34 @@
 {
   "quiz_questions":[
-    {"question": "pertanyaan", "option1": "A", "option2": "B", "option3": "C", "option4": "D", "answer_nr":"jawaban", "difficulty": "easy", "category_id":"kategori"},
-    {"firstName": "Anna", "lastName": "Smith"},
-    {"firstName": "Peter", "lastName": "Jones"}
+    {
+        "question": "50 + 6 * 2 = ?",
+        "option1": "110",
+        "option2": "112",
+        "option3": "98",
+        "option4": "120",
+        "answer_nr": 2,
+        "category_id": 1,
+        "difficulty": 1,
+    }
+    {
+        "question": "90 * 3 - 63 = ",
+        "option1": "220",
+        "option2": "210",
+        "option3": "207",
+        "option4": "198",
+        "answer_nr": 3,
+        "category_id": 1,
+        "difficulty": 1,
+    }
+    {
+        "question": "80 + 63 - 6 - ? = 169",
+        "option1": "32",
+        "option2": "50",
+        "option3": "35",
+        "option4": "65",
+        "answer_nr": 1,
+        "category_id": 1,
+        "difficulty": 1,
+    }
   ]
 }
