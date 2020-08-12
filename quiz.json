@@ -1,6 +1,6 @@
 {
-  "employees":[
-    {"firstName": "John", "lastName": "Doe"},
+  "quiz_questions":[
+    {"question": "pertanyaan", "option1": "A", "option2": "B", "option3": "C", "option4": "D", "answer_nr","jawaban", "difficulty", "easy", "category_id","kategori"},
     {"firstName": "Anna", "lastName": "Smith"},
     {"firstName": "Peter", "lastName": "Jones"}
   ]
