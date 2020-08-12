@@ -1,5 +1,7 @@
 {
-  "name":"John",
-  "age":30,
-  "city":"New York"
+  "employees":[
+    { "firstName":"John", "lastName":"Doe" },
+    { "firstName":"Anna", "lastName":"Smith" },
+    { "firstName":"Peter", "lastName":"Jones" }
+  ]
 }
