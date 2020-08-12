@@ -9,7 +9,7 @@
         "answer_nr": 2,
         "category_id": 1,
         "difficulty": 1
-    }
+    },
     {
         "question": "90 * 3 - 63 = ",
         "option1": "220",
@@ -19,7 +19,7 @@
         "answer_nr": 3,
         "category_id": 1,
         "difficulty": 1
-    }
+    },
     {
         "question": "80 + 63 - 6 - ? = 169",
         "option1": "32",
