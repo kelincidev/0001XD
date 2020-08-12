@@ -8,7 +8,7 @@
         "option4": "120",
         "answer_nr": 2,
         "category_id": 1,
-        "difficulty": 1,
+        "difficulty": 1
     }
     {
         "question": "90 * 3 - 63 = ",
@@ -18,7 +18,7 @@
         "option4": "198",
         "answer_nr": 3,
         "category_id": 1,
-        "difficulty": 1,
+        "difficulty": 1
     }
     {
         "question": "80 + 63 - 6 - ? = 169",
@@ -28,7 +28,7 @@
         "option4": "65",
         "answer_nr": 1,
         "category_id": 1,
-        "difficulty": 1,
+        "difficulty": 1
     }
   ]
 }
